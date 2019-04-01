@@ -1,4 +1,4 @@
-# vue2-news
+# vue2-newshamCHen
 ![image](https://img.shields.io/badge/vue-2.5.13-blue.svg)
 ![image](https://img.shields.io/badge/vue--router-3.0.1-blue.svg)
 ![image](https://img.shields.io/badge/vuex-3.0.1-blue.svg)
